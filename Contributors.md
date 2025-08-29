@@ -1,6 +1,8 @@
 
 # Contributors
 sardor Uchqunov
+- [Erfan Ahmadi](https://github.com/erfan-web)
+- [Mohd Suhaib Siddiqui] (https://github.com/Suhaib-Sid)
 - [Justslugard] (https://github.com/Justslugard)
 - [Kanishka Raisania] (https://github.com/kanishka-raisania)
 - [Yogendra K Narmada] (https://github.com/lazydeveloper9)
@@ -15,6 +17,7 @@ sardor Uchqunov
 - [Amelia Ali] 
 - [Akinori Sugimura](https://github.com/sugisaku37)
 - [Nikita Maurya](https://github.com/sun-andsky)
+- [Padmanabha Das](https://github.com/chayan-1906)
 - [William W.] (https://github.com/ParadigmPacket)
 - [Shalini V] (https://github.com/shalini515)
 - [Mohith Butta] (https:/github.com/mohithnovoct)
@@ -35,6 +38,7 @@ sardor Uchqunov
 
 - [JuanRZ](https://github.com/JuanRZ)
 - [turingAround](https://github.com/turingAround)
+- [Ahmed Shabab Noor](https://github.com/ashababnoor)
 - [Endlia](https://github.com/Endlia)
 - [casa-code](https://github.com/casa-code)
 - [Zuzanna Pilat](https://github.com/Pilat11)
@@ -60,6 +64,7 @@ sardor Uchqunov
 - [Aadil Bashir](https://github.com/Aadil-Bashir)
 - [Dimirrius Farida](https://github.com/CodeBotD)
 - [Hruthik Chauan](https://github.com/hruthikchauhan07)
+- [Ahmad Rafiq](https://github.com/AhmadRafiq90)
 - [Vinicius]
 - [Arezoo]
 - [1983730774]
@@ -358,6 +363,7 @@ LIUYY到此一游
 - [zdp1](https://github.com/dongpeng6)
 - [Govinda Kandel](https://github.com/Govindakandel)
 - [Trivedh Undi](https://github.com/maxinh00000)
+- [Aaditya Tripathi](https://github.com/Aaditya-Tripathi)
 - [Vrund Patel](https://github.com/Vrund09)
 - [Krish Patel](https://github.com/kodercrish)
 - [Pierre](https://github.com/wiizzl)
@@ -1075,6 +1081,7 @@ Ben
 - [Pankaj Monga](https://github.com/p-monga)
 - [Tyler Daw](https://github.com/TylerD1105)
 - [Atit](https://github.com/0xAtit)
+- [Ameluc Ahognidje](https://github.com/ameluc-ahognidje)
 - [Anu Priya Pulagam](https://github.com/AnuPriyaPulagam)
 - [Varsha Gitty](https://github.com/vgg1459)
 - [Görkem](https://github.com/gorkemozsari)
@@ -1864,6 +1871,7 @@ Eoin O'B
 - [Daniel Barbosa Martins](https://github.com/dmatrixxBR)
 - [TheJaydenProject](https://github.com/TheJaydenProject)
 - [notamudkipiguess](https://github.com/notamudkipiguess)
+- [OlivierNeyret](https://github.com/OlivierNeyret)
 - [nal888](https://github.com/nal888)
 - [rujeetjahagirdar](https://github.com/rujeetjahagirdar)
 - [sema-altinkaynak](https://github.com/sema-altinkaynak)
@@ -2011,6 +2019,7 @@ Eoin O'B
 - [Aaron Rafael Thamin](https://github.com/aaronraf)
 - [Milan J](https://github.com/Milanjiji)
 - [Sunil Reddy](https://github.com/Sunilreddyj)
+[Sunil Prakash](https://github.com/sunilprakashb)
 - [Ranjan 😎]
 -[Lazarus A.](https://github.com/Plannr36)
 -[Utkarsh Singh](https://github.com/UtkarshxDD)
@@ -2038,6 +2047,7 @@ Eoin O'B
 -Aviral Mittal(https://github.com/aviralmittal8)
 -Aachal Yadav(https://github.com/aachalyadav)
 - [Shubham Kalashetty](https://github.com/shubh-07-lk)
+- [Sabbir Ahmed](https://github.com/Sabbir256)
 -MAHEK GUPTA!!!!!
 - Martin
 - Mubarak
@@ -2280,6 +2290,7 @@ sh0uka
 -[John Martin](https://github.com/JohnMartin0301)
 -[Shakil Ahmed](https://github.com/paharivalu)
 -[Ryan Sumithra](https://github.com/RyanSumithra)
+-[Nabin Bista](https://github.com/Nabinbista12)
 -[Samhit Prakash Nayak](https://github.com/samhit24)
 -[Tanisha Dash](https://github.com/Dtanisha)
 -[Vincenzo Ragone](https://github.com/vincenzo113)
@@ -2337,3 +2348,5 @@ sh0uka
 - [Takahashi Keiko](https://github.com/keik0t92127)
 - [Student00](https://github.com/keik0t92127)
 - [Ramaharisoa Tokiniaina](https://github.com/Toky20)
+- [paprotox]
+- [RohanKommathoti](https://github.com/RohanK-coder)
